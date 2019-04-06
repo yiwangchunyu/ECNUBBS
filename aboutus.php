@@ -44,7 +44,7 @@
 	<div class=""> &nbsp</div>
 	<!-- 图片轮播 -->
 
-	<div class= "rounded tm-content col-xs-12 col-sm-6 col-md-6 offset-md-3 ">
+	<div class= "rounded tm-content col-xs-12 col-sm-8 col-md-8 offset-md-2 ">
 		<div id="demo rounded" class="carousel slide" data-ride="carousel">
 		 
 		  <!-- 指示符 -->
@@ -125,14 +125,14 @@
 				<div class="media mt-4">
 		    		<img src="http://bbs.yiwangchunyu.wang/img/about.jpg" class="align-self-center mr-4" style="width:200px; height:150px">
 		    		<div class="media-body">
-		      			<p class="card-text text-dark">华东师范大学 计算机科学技术系  数据库实践项目</p>
-		      			<p class="card-text text-dark">任课老师：徐飞</p>
+		      			<p class="card-text text-dark">华东师范大学 计算机科学技术系  汪春雨</p>
+		      			<p class="card-text text-dark">Email：yiwangchunyu@163.com</p>
 		      			<p class="card-text text-dark">上线日期：2018-06-20</p>
-		      			<p class="card-text text-dark">致敬：</p>
+		      			<p class="card-text text-dark">谢谢支持</p>
 		    		</div>
 		   		</div>
 		   		<div class="" style="padding-top: 10px">
-		   			<a href="mailto:yiwangchunyu@126.com" class="card-link" >联系我</a>
+		   			<a href="mailto:yiwangchunyu@163.com" class="card-link" >联系我</a>
 		        	<a href="#" class="card-link">支持(99)</a>
 		   		</div>
 		    </div>

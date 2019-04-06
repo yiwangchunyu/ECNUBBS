@@ -44,7 +44,7 @@
 	<div class=""> &nbsp</div>
 	<!-- 图片轮播 -->
 
-	<div class= "rounded tm-content col-xs-12 col-sm-6 col-md-6 offset-md-3 ">
+	<div class= "rounded tm-content col-xs-12 col-sm-8 col-md-8 offset-md-2 ">
 		<div id="demo rounded" class="carousel slide" data-ride="carousel">
 		 
 		  <!-- 指示符 -->

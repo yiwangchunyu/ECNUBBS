@@ -12,7 +12,7 @@
 </head>
 <body>
 
-  <div class="col-md-6 col-md-offset-3">
+  <div class="col-md-8 col-md-offset-2">
 
     <nav class="navbar navbar-inverse" role="navigation">
       <div class="container-fluid">
